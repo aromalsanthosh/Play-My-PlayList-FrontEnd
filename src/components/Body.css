@@ -14,7 +14,7 @@
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 2.5%;
-   
+    color: white;
     
 }
 
@@ -26,6 +26,7 @@
     font-family: 'Poppins', sans-serif;
     margin-top: 2vh;
     font-size: 25px;
+    color: white;
 
 }
 

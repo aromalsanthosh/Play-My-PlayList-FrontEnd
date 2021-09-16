@@ -1,7 +1,7 @@
 import react,{Component} from "react";
 import { Button ,Card } from "react-bootstrap"
 import './Body.css'
-
+//import pic from '../assets/equ.jpg';
 
 class Body extends Component{
     constructor(props){
@@ -33,7 +33,7 @@ class Body extends Component{
                         </Card>
                     </div>
                     <div class="how-to-play">HOW TO PLAY</div>
-                    <div class="image"></div>
+                    <div class="image"> </div>
                 </div>
             </react.Fragment>
         )
