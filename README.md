@@ -2,6 +2,7 @@
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1c5f6286-93fb-4dc1-9dd4-bab1dce14413/deploy-status)](https://app.netlify.com/sites/playmyplaylist/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
