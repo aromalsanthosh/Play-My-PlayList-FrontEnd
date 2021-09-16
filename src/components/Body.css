@@ -103,6 +103,12 @@
     border-radius: 10px;
 
 }
+
+.how-to-play:hover{
+    background-color: #383b4f !important;
+}
+
+
 @media screen and (max-width: 600px){
     .button-container{
 
