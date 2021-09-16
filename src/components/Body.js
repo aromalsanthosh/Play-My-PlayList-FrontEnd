@@ -13,22 +13,23 @@ class Body extends Component{
             <react.Fragment>
                 <div class="body-wrapper">
                     <div class="body-heading">Play My Playlist</div>
+                    
                     <div class="body-description">A multiplayer Social Game to play along with your friends in a private room</div>
                     <div  class="button-container">
                         
-                        <Card className="card1">
+                        <Card className="card1 cards">
                             <Card.Body>
-                                <Card.Title>Create Room</Card.Title>
-                                <Card.Text>Play along with <br/>your friends</Card.Text>
+                                <Card.Title className="card-title">Create Room</Card.Title>
+                                <Card.Text className="card-text">Play along with <br/>your friends</Card.Text>
                                 <i class="fal fa-long-arrow-right"></i>
                             </Card.Body>    
                         </Card>
-                        <Card className="card2">
+                        <Card className="card2 cards">
                             <Card.Body>
-                                <Card.Title><b>Create Room</b></Card.Title>
-                                <Card.Text>Play along with <br/>your friends</Card.Text>
-                                <i class="fal fa-long-arrow-right" ></i>
-                            </Card.Body> 
+                                <Card.Title className="card-title">Join Room</Card.Title>
+                                <Card.Text className="card-text">Play along with <br/>your friends</Card.Text>
+                                <i class="fal fa-long-arrow-right"></i>
+                            </Card.Body>    
                         </Card>
                     </div>
                     <div class="how-to-play">HOW TO PLAY</div>
