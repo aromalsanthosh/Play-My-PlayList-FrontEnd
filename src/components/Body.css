@@ -110,6 +110,7 @@
 
 .how-to-play:hover{
     background-color: #383b4f !important;
+    cursor: pointer;
 }
 
 span{
