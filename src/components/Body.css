@@ -70,6 +70,7 @@
 .cards:hover{
     background-color: #5563e6 !important;
     transform: scale(1.05);
+    cursor: pointer;
 }
 .card1{
     height:356px;
